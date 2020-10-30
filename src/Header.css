@@ -6,6 +6,7 @@
   position: sticky;
   top: 0;
   z-index: 100;
+  text-decoration: none;
 }
 
 .header__logo {
@@ -37,11 +38,15 @@
 
 .header__optionLineOne {
   font-size: 10px;
+  color: white;
+  text-decoration: none !important;
 }
 
 .header__optionLineTwo {
   font-size: 13px;
   font-weight: 800;
+  color: white;
+  text-decoration: none !important;
 }
 
 .header__optionBasket {
@@ -66,4 +71,5 @@
   margin-left: 10px;
   margin-right: 10px;
   color: white;
+  text-decoration: none;
 }
